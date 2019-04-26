@@ -1,0 +1,6 @@
+#Folders being ignored.
+/.vscode/
+/bin/
+/obj/
+#Files being ignored
+settings.json
